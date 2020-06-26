@@ -1,4 +1,8 @@
-# vuejs-mobile-navigation
+# Vuejs Mobile Navigation
+
+## Demo
+
+![Demo Mobile Navigation](https://github.com/khairul-abdi/vue-collection-project/blob/master/vuejs-mobile-navigation/src/assets/gif/animatedGIF.gif)
 
 ## Project setup
 ```
