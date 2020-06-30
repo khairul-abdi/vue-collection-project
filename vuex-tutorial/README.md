@@ -1,6 +1,6 @@
 # vuex-tutorial
 
-![Vuex Tutorial](https://github.com/khairul-abdi/vue-collection-project/blob/master/vuex-crash-course/src/assets/gif/animatedGIF.gif)
+![Vuex Tutorial](https://github.com/khairul-abdi/vue-collection-project/blob/master/vuex-tutorial/src/assets/gif/animatedGIF.gif)
 
 ## Project setup
 ```
